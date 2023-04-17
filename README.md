@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋
+I'm currently a Software Development student. I am passionate in open source softwares, especially desktop application.
 
 <!--
 **gyro5/gyro5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
